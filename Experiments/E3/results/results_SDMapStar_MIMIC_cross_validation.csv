@@ -1,0 +1,101 @@
+,Description,Quality,tp train,fp train,TP train,FP train,tp test,fp test,TP test,FP test
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.045474850240445015,4055,37,21238,32108,477.0,11.0,2360.0,3568.0
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.045441002413821895,4052,37,21238,32108,476.0,11.0,2360.0,3568.0
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.045441002413821895,4052,37,21238,32108,476.0,11.0,2360.0,3568.0
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.045441002413821895,4052,37,21238,32108,476.0,11.0,2360.0,3568.0
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.045441002413821895,4052,37,21238,32108,476.0,11.0,2360.0,3568.0
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.045441002413821895,4052,37,21238,32108,476.0,11.0,2360.0,3568.0
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.045441002413821895,4052,37,21238,32108,476.0,11.0,2360.0,3568.0
+0,ab_name = 'PENICILLIN',0.04534868587875828,4063,66,21238,32108,478.0,11.0,2360.0,3568.0
+437,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.03981267150097853,4376,1281,21238,32108,484.0,205.0,2360.0,3568.0
+440,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.03963214975898853,4360,1281,21238,32108,482.0,205.0,2360.0,3568.0
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.045780009881777474,4088,46,21238,32108,444.0,3.0,2360.0,3568.0
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04574616205515435,4085,46,21238,32108,443.0,3.0,2360.0,3568.0
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.04574616205515435,4085,46,21238,32108,443.0,3.0,2360.0,3568.0
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.04574616205515435,4085,46,21238,32108,443.0,3.0,2360.0,3568.0
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.04574616205515435,4085,46,21238,32108,443.0,3.0,2360.0,3568.0
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04574616205515435,4085,46,21238,32108,443.0,3.0,2360.0,3568.0
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.04574616205515435,4085,46,21238,32108,443.0,3.0,2360.0,3568.0
+0,ab_name = 'PENICILLIN',0.04566130845914873,4096,74,21238,32108,445.0,3.0,2360.0,3568.0
+445,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.04015408743415228,4397,1267,21238,32108,463.0,218.0,2360.0,3568.0
+449,"ab_name = 'ERYTHROMYCIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.03996228308328791,4380,1267,21238,32108,462.0,218.0,2360.0,3568.0
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.04561041794751229,4069,40,21238,32108,463.0,6.0,2360.0,3568.0
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.0455652875120148,4065,40,21238,32108,463.0,6.0,2360.0,3568.0
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.0455652875120148,4065,40,21238,32108,463.0,6.0,2360.0,3568.0
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.0455652875120148,4065,40,21238,32108,463.0,6.0,2360.0,3568.0
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.0455652875120148,4065,40,21238,32108,463.0,6.0,2360.0,3568.0
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.0455652875120148,4065,40,21238,32108,463.0,6.0,2360.0,3568.0
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.0455652875120148,4065,40,21238,32108,463.0,6.0,2360.0,3568.0
+0,ab_name = 'PENICILLIN',0.04548061031658395,4078,71,21238,32108,463.0,6.0,2360.0,3568.0
+465,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.04001957813053366,4395,1282,21238,32108,465.0,222.0,2360.0,3568.0
+470,"ab_name = 'ERYTHROMYCIN', days_since_last_treatment = 'nan'",0.039850338997418036,4380,1282,21238,32108,462.0,222.0,2360.0,3568.0
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.046035337414922155,4106,39,21238,32108,426.0,12.0,2360.0,3568.0
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.045990206979424665,4102,39,21238,32108,426.0,12.0,2360.0,3568.0
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.045990206979424665,4102,39,21238,32108,426.0,12.0,2360.0,3568.0
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.045990206979424665,4102,39,21238,32108,426.0,12.0,2360.0,3568.0
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.045990206979424665,4102,39,21238,32108,426.0,12.0,2360.0,3568.0
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.045990206979424665,4102,39,21238,32108,426.0,12.0,2360.0,3568.0
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.045990206979424665,4102,39,21238,32108,426.0,12.0,2360.0,3568.0
+0,ab_name = 'PENICILLIN',0.04590899665266065,4112,65,21238,32108,429.0,12.0,2360.0,3568.0
+489,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.03957103504192639,4344,1265,21238,32108,516.0,213.0,2360.0,3568.0
+490,"ab_name = 'ERYTHROMYCIN', number_of_treatments_last_180_days = '0'",0.03942436112655951,4331,1265,21238,32108,511.0,213.0,2360.0,3568.0
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.0457939469701612,4080,32,21238,32109,452.0,13.0,2360.0,3567.0
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.045748816821076024,4076,32,21238,32109,452.0,13.0,2360.0,3567.0
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.045748816821076024,4076,32,21238,32109,452.0,13.0,2360.0,3567.0
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.045748816821076024,4076,32,21238,32109,452.0,13.0,2360.0,3567.0
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.045748816821076024,4076,32,21238,32109,452.0,13.0,2360.0,3567.0
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.045748816821076024,4076,32,21238,32109,452.0,13.0,2360.0,3567.0
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.045748816821076024,4076,32,21238,32109,452.0,13.0,2360.0,3567.0
+0,ab_name = 'PENICILLIN',0.04563411963435322,4087,64,21238,32109,454.0,13.0,2360.0,3567.0
+421,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.04029538632011468,4391,1239,21238,32109,469.0,233.0,2360.0,3567.0
+422,"ab_name = 'ERYTHROMYCIN', number_of_treatments_last_180_days = '0'",0.04010358318650272,4374,1239,21238,32109,468.0,233.0,2360.0,3567.0
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.046189544161561596,4123,44,21238,32109,409.0,4.0,2360.0,3567.0
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.04614441401247643,4119,44,21238,32109,409.0,4.0,2360.0,3567.0
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.04614441401247643,4119,44,21238,32109,409.0,4.0,2360.0,3567.0
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04614441401247643,4119,44,21238,32109,409.0,4.0,2360.0,3567.0
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04614441401247643,4119,44,21238,32109,409.0,4.0,2360.0,3567.0
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.04614441401247643,4119,44,21238,32109,409.0,4.0,2360.0,3567.0
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.04614441401247643,4119,44,21238,32109,409.0,4.0,2360.0,3567.0
+0,ab_name = 'PENICILLIN',0.046074669878112456,4132,73,21238,32109,409.0,4.0,2360.0,3567.0
+8,"ab_name = 'PENICILLIN', admission_type = 'EMERGENCY'",0.03943494711733104,3523,42,21238,32109,339.0,4.0,2360.0,3567.0
+489,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.039353421131314695,4330,1273,21238,32109,529.0,206.0,2360.0,3567.0
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.045534979903100396,4063,41,21238,32109,469.0,8.0,2360.0,3567.0
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.04550113229128652,4060,41,21238,32109,468.0,8.0,2360.0,3567.0
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.04550113229128652,4060,41,21238,32109,468.0,8.0,2360.0,3567.0
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.04550113229128652,4060,41,21238,32109,468.0,8.0,2360.0,3567.0
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.04550113229128652,4060,41,21238,32109,468.0,8.0,2360.0,3567.0
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04550113229128652,4060,41,21238,32109,468.0,8.0,2360.0,3567.0
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04550113229128652,4060,41,21238,32109,468.0,8.0,2360.0,3567.0
+0,ab_name = 'PENICILLIN',0.04541628574165207,4071,69,21238,32109,470.0,8.0,2360.0,3567.0
+433,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.04018779759921136,4398,1264,21238,32109,462.0,226.0,2360.0,3567.0
+435,"ab_name = 'ERYTHROMYCIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.039995994465599406,4381,1264,21238,32109,461.0,226.0,2360.0,3567.0
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.04549349253528813,4058,39,21238,32109,474.0,8.0,2360.0,3567.0
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.04545964492347425,4055,39,21238,32109,473.0,8.0,2360.0,3567.0
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04545964492347425,4055,39,21238,32109,473.0,8.0,2360.0,3567.0
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.04545964492347425,4055,39,21238,32109,473.0,8.0,2360.0,3567.0
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04545964492347425,4055,39,21238,32109,473.0,8.0,2360.0,3567.0
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.04545964492347425,4055,39,21238,32109,473.0,8.0,2360.0,3567.0
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.04545964492347425,4055,39,21238,32109,473.0,8.0,2360.0,3567.0
+0,ab_name = 'PENICILLIN',0.045371155592566915,4067,69,21238,32109,474.0,8.0,2360.0,3567.0
+418,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.03978873472326437,4358,1257,21238,32109,502.0,215.0,2360.0,3567.0
+421,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.039596931589652405,4341,1257,21238,32109,501.0,215.0,2360.0,3567.0
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.04566892406042445,4075,41,21239,32108,457.0,10.0,2359.0,3568.0
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.04562379531686886,4071,41,21239,32108,457.0,10.0,2359.0,3568.0
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.04562379531686886,4071,41,21239,32108,457.0,10.0,2359.0,3568.0
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.04562379531686886,4071,41,21239,32108,457.0,10.0,2359.0,3568.0
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.04562379531686886,4071,41,21239,32108,457.0,10.0,2359.0,3568.0
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04562379531686886,4071,41,21239,32108,457.0,10.0,2359.0,3568.0
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04562379531686886,4071,41,21239,32108,457.0,10.0,2359.0,3568.0
+0,ab_name = 'PENICILLIN',0.04557642545640784,4084,67,21239,32108,457.0,10.0,2359.0,3568.0
+421,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.03996345751011309,4373,1256,21239,32108,487.0,227.0,2359.0,3568.0
+424,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.03978294253589073,4357,1256,21239,32108,485.0,227.0,2359.0,3568.0
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.045593943274250905,4071,45,21239,32108,461.0,2.0,2359.0,3568.0
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.045548814530695314,4067,45,21239,32108,461.0,2.0,2359.0,3568.0
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.045548814530695314,4067,45,21239,32108,461.0,2.0,2359.0,3568.0
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.045548814530695314,4067,45,21239,32108,461.0,2.0,2359.0,3568.0
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.045548814530695314,4067,45,21239,32108,461.0,2.0,2359.0,3568.0
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.045548814530695314,4067,45,21239,32108,461.0,2.0,2359.0,3568.0
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.045548814530695314,4067,45,21239,32108,461.0,2.0,2359.0,3568.0
+0,ab_name = 'PENICILLIN',0.04546031044172745,4079,75,21239,32108,462.0,2.0,2359.0,3568.0
+413,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.03989664109385137,4377,1271,21239,32108,483.0,205.0,2359.0,3568.0
+415,"ab_name = 'ERYTHROMYCIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.039716126119629,4361,1271,21239,32108,481.0,205.0,2359.0,3568.0

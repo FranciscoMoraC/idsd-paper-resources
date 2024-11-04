@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+1,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.04570336500341244,4532,47,23598,35676
+2,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = '0'",0.04566274801912536,4528,47,23598,35676
+3,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = '0'",0.04566274801912536,4528,47,23598,35676
+7,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.04566274801912536,4528,47,23598,35676
+4,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04566274801912536,4528,47,23598,35676
+5,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.04566274801912536,4528,47,23598,35676
+6,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.04566274801912536,4528,47,23598,35676
+0,ab_name = 'PENICILLIN',0.04559325649858172,4541,77,23598,35676
+434,"ab_name = 'ERYTHROMYCIN', days_with_treatment_last_180_days = '0'",0.03957032845686681,4860,1456,23598,35676
+438,"ab_name = 'ERYTHROMYCIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = '0'",0.03938755202757496,4842,1456,23598,35676

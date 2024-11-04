@@ -1,0 +1,2 @@
+['../main.py', 'benchmark', 'QFinder', 'AB', 'columns', '5']
+(1.1982828450000005, 182923264)

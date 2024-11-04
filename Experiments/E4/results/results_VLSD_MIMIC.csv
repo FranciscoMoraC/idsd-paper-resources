@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+1717,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', number_of_treatments_last_180_days = 'nan'",0.046689382835891385,4541,77,22988,35189
+1718,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",0.046689382835891385,4541,77,22988,35189
+1719,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = 'nan'",0.046689382835891385,4541,77,22988,35189
+1720,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0', number_of_treatments_last_180_days = 'nan'",0.046689382835891385,4541,77,22988,35189
+930,"ab_name = 'PENICILLIN', days_with_treatment_last_180_days = '0'",0.046689382835891385,4541,77,22988,35189
+4,ab_name = 'PENICILLIN',0.046689382835891385,4541,77,22988,35189
+928,"ab_name = 'PENICILLIN', days_since_last_treatment = 'nan'",0.046689382835891385,4541,77,22988,35189
+929,"ab_name = 'PENICILLIN', number_of_treatments_last_180_days = 'nan'",0.046689382835891385,4541,77,22988,35189
+1453,"ab_name = 'PENICILLIN', admission_type = 'EMERGENCY', days_since_last_treatment = 'nan'",0.0396842171186923,3862,69,22988,35189
+1454,"ab_name = 'PENICILLIN', admission_type = 'EMERGENCY', number_of_treatments_last_180_days = 'nan'",0.0396842171186923,3862,69,22988,35189

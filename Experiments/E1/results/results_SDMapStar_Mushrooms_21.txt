@@ -1,0 +1,2 @@
+['../main.py', 'benchmark', 'SDMapStar', 'Mushrooms', 'columns', '21']
+(5138.994510616, 190910464)

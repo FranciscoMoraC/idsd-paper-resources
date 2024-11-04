@@ -1,0 +1,2 @@
+['../main.py', 'benchmark', 'IDSD', 'MIMIC', 'columns', '8']
+(1.1605514650000002, 199663616)

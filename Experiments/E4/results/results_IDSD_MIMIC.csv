@@ -1,0 +1,11 @@
+,Description,tp,fp,TP,FP
+0,ab_name = 'ERYTHROMYCIN',5043,2202,23598,35676
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",4150,2466,23598,35676
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",5064,3369,23598,35676
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",5064,3369,23598,35676
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",5064,3369,23598,35676
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3626,2385,23598,35676
+6,"ab_name = 'OXACILLIN', admission_type = 'EMERGENCY', exitus = 'f'",3507,2431,23598,35676
+7,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3611,2711,23598,35676
+8,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3380,2614,23598,35676
+9,"ab_name = 'LEVOFLOXACIN', number_of_treatments_last_180_days = '0'",3380,2614,23598,35676

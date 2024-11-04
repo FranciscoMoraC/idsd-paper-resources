@@ -1,0 +1,2 @@
+['../main.py', 'benchmark', 'QFinder', 'Mushrooms', 'columns', '10']
+(1828.3236924579999, 1102966784)

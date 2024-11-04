@@ -1,0 +1,2 @@
+['../main.py', 'benchmark', 'BSD', 'Mushrooms', 'columns', '18']
+(54.77861223, 1381916672)

@@ -1,0 +1,101 @@
+,Description,tp train,fp train,TP train,FP train,tp test,fp test,TP test,FP test
+0,ab_name = 'ERYTHROMYCIN',4539,1995,21238,32108,504.0,207.0,2360.0,3568.0
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",3746,2226,21238,32108,404.0,240.0,2360.0,3568.0
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",4545,3012,21238,32108,519.0,357.0,2360.0,3568.0
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",4545,3012,21238,32108,519.0,357.0,2360.0,3568.0
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",4545,3012,21238,32108,519.0,357.0,2360.0,3568.0
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3270,2146,21238,32108,356.0,239.0,2360.0,3568.0
+6,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3261,2447,21238,32108,350.0,264.0,2360.0,3568.0
+7,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3060,2361,21238,32108,320.0,253.0,2360.0,3568.0
+8,"ab_name = 'LEVOFLOXACIN', number_of_treatments_last_180_days = '0'",3060,2361,21238,32108,320.0,253.0,2360.0,3568.0
+9,"admission_days = 'I3', discharge_location = 'REHAB/DISTINCT PART HOSP'",2638,2722,21238,32108,310.0,310.0,2360.0,3568.0
+0,ab_name = 'ERYTHROMYCIN',4564,1981,21238,32108,479.0,221.0,2360.0,3568.0
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",3742,2210,21238,32108,408.0,256.0,2360.0,3568.0
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",4518,3033,21238,32108,546.0,336.0,2360.0,3568.0
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",4518,3033,21238,32108,546.0,336.0,2360.0,3568.0
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",4518,3033,21238,32108,546.0,336.0,2360.0,3568.0
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3276,2140,21238,32108,350.0,245.0,2360.0,3568.0
+6,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3249,2432,21238,32108,362.0,279.0,2360.0,3568.0
+7,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3040,2342,21238,32108,340.0,272.0,2360.0,3568.0
+8,"ab_name = 'LEVOFLOXACIN', number_of_treatments_last_180_days = '0'",3040,2342,21238,32108,340.0,272.0,2360.0,3568.0
+9,"admission_days = 'I3', discharge_location = 'REHAB/DISTINCT PART HOSP'",2663,2730,21238,32108,285.0,302.0,2360.0,3568.0
+0,ab_name = 'ERYTHROMYCIN',4556,1977,21238,32108,487.0,225.0,2360.0,3568.0
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",3749,2227,21238,32108,401.0,239.0,2360.0,3568.0
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",4563,3025,21238,32108,501.0,344.0,2360.0,3568.0
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",4563,3025,21238,32108,501.0,344.0,2360.0,3568.0
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",4563,3025,21238,32108,501.0,344.0,2360.0,3568.0
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3271,2121,21238,32108,355.0,264.0,2360.0,3568.0
+6,"ab_name = 'OXACILLIN', admission_type = 'EMERGENCY', exitus = 'f'",3156,2186,21238,32108,351.0,245.0,2360.0,3568.0
+7,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3249,2421,21238,32108,362.0,290.0,2360.0,3568.0
+8,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3040,2333,21238,32108,340.0,281.0,2360.0,3568.0
+9,"ab_name = 'LEVOFLOXACIN', number_of_treatments_last_180_days = '0'",3040,2333,21238,32108,340.0,281.0,2360.0,3568.0
+0,ab_name = 'ERYTHROMYCIN',4508,1986,21238,32108,535.0,216.0,2360.0,3568.0
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",3754,2228,21238,32108,396.0,238.0,2360.0,3568.0
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",4559,3062,21238,32108,505.0,307.0,2360.0,3568.0
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",4559,3062,21238,32108,505.0,307.0,2360.0,3568.0
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",4559,3062,21238,32108,505.0,307.0,2360.0,3568.0
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3272,2153,21238,32108,354.0,232.0,2360.0,3568.0
+6,"ab_name = 'OXACILLIN', admission_type = 'EMERGENCY', exitus = 'f'",3160,2207,21238,32108,347.0,224.0,2360.0,3568.0
+7,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3255,2454,21238,32108,356.0,257.0,2360.0,3568.0
+8,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3041,2364,21238,32108,339.0,250.0,2360.0,3568.0
+9,"ab_name = 'LEVOFLOXACIN', number_of_treatments_last_180_days = '0'",3041,2364,21238,32108,339.0,250.0,2360.0,3568.0
+0,ab_name = 'ERYTHROMYCIN',4557,1962,21238,32109,486.0,240.0,2360.0,3567.0
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",3742,2207,21238,32109,408.0,259.0,2360.0,3567.0
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",4529,3027,21238,32109,535.0,342.0,2360.0,3567.0
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",4529,3027,21238,32109,535.0,342.0,2360.0,3567.0
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",4529,3027,21238,32109,535.0,342.0,2360.0,3567.0
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3266,2131,21238,32109,360.0,254.0,2360.0,3567.0
+6,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3258,2423,21238,32109,353.0,288.0,2360.0,3567.0
+7,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3053,2333,21238,32109,327.0,281.0,2360.0,3567.0
+8,"ab_name = 'LEVOFLOXACIN', number_of_treatments_last_180_days = '0'",3053,2333,21238,32109,327.0,281.0,2360.0,3567.0
+9,"admission_days = 'I3', admission_type = 'EMERGENCY', days_with_treatment_last_180_days = '0'",4016,4280,21238,32109,442.0,478.0,2360.0,3567.0
+0,ab_name = 'ERYTHROMYCIN',4496,1994,21238,32109,547.0,208.0,2360.0,3567.0
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",3736,2206,21238,32109,414.0,260.0,2360.0,3567.0
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",4553,3030,21238,32109,511.0,339.0,2360.0,3567.0
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",4553,3030,21238,32109,511.0,339.0,2360.0,3567.0
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",4553,3030,21238,32109,511.0,339.0,2360.0,3567.0
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3263,2143,21238,32109,363.0,242.0,2360.0,3567.0
+6,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3259,2438,21238,32109,352.0,273.0,2360.0,3567.0
+7,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3053,2347,21238,32109,327.0,267.0,2360.0,3567.0
+8,"ab_name = 'LEVOFLOXACIN', number_of_treatments_last_180_days = '0'",3053,2347,21238,32109,327.0,267.0,2360.0,3567.0
+9,"admission_days = 'I3', discharge_location = 'REHAB/DISTINCT PART HOSP'",2644,2720,21238,32109,304.0,312.0,2360.0,3567.0
+0,ab_name = 'ERYTHROMYCIN',4567,1973,21238,32109,476.0,229.0,2360.0,3567.0
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",3715,2230,21238,32109,435.0,236.0,2360.0,3567.0
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",4561,3025,21238,32109,503.0,344.0,2360.0,3567.0
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",4561,3025,21238,32109,503.0,344.0,2360.0,3567.0
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",4561,3025,21238,32109,503.0,344.0,2360.0,3567.0
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3251,2161,21238,32109,375.0,224.0,2360.0,3567.0
+6,"ab_name = 'OXACILLIN', admission_type = 'EMERGENCY', exitus = 'f'",3162,2178,21238,32109,345.0,253.0,2360.0,3567.0
+7,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3250,2446,21238,32109,361.0,265.0,2360.0,3567.0
+8,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3041,2362,21238,32109,339.0,252.0,2360.0,3567.0
+9,"ab_name = 'LEVOFLOXACIN', number_of_treatments_last_180_days = '0'",3041,2362,21238,32109,339.0,252.0,2360.0,3567.0
+0,ab_name = 'ERYTHROMYCIN',4517,1984,21238,32109,526.0,218.0,2360.0,3567.0
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",3704,2229,21238,32109,446.0,237.0,2360.0,3567.0
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",4615,3046,21238,32109,449.0,323.0,2360.0,3567.0
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",4615,3046,21238,32109,449.0,323.0,2360.0,3567.0
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",4615,3046,21238,32109,449.0,323.0,2360.0,3567.0
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3257,2174,21238,32109,369.0,211.0,2360.0,3567.0
+6,"ab_name = 'OXACILLIN', admission_type = 'EMERGENCY', days_since_last_treatment = 'nan', exitus = 'f'",3178,2161,21238,32109,293.0,229.0,2360.0,3567.0
+7,"ab_name = 'OXACILLIN', admission_type = 'EMERGENCY', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0', exitus = 'f'",3178,2161,21238,32109,293.0,229.0,2360.0,3567.0
+8,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3236,2447,21238,32109,375.0,264.0,2360.0,3567.0
+9,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3027,2364,21238,32109,353.0,250.0,2360.0,3567.0
+0,ab_name = 'ERYTHROMYCIN',4536,1972,21239,32108,507.0,230.0,2359.0,3568.0
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",3735,2218,21239,32108,415.0,248.0,2359.0,3568.0
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",4564,3043,21239,32108,500.0,326.0,2359.0,3568.0
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",4564,3043,21239,32108,500.0,326.0,2359.0,3568.0
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",4564,3043,21239,32108,500.0,326.0,2359.0,3568.0
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3268,2150,21239,32108,358.0,235.0,2359.0,3568.0
+6,"ab_name = 'OXACILLIN', admission_type = 'EMERGENCY', exitus = 'f'",3162,2198,21239,32108,345.0,233.0,2359.0,3568.0
+7,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3244,2446,21239,32108,367.0,265.0,2359.0,3568.0
+8,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3036,2358,21239,32108,344.0,256.0,2359.0,3568.0
+9,"ab_name = 'LEVOFLOXACIN', number_of_treatments_last_180_days = '0'",3036,2358,21239,32108,344.0,256.0,2359.0,3568.0
+0,ab_name = 'ERYTHROMYCIN',4547,1994,21239,32108,496.0,208.0,2359.0,3568.0
+1,"ab_name = 'LEVOFLOXACIN', admission_type = 'EMERGENCY'",3727,2213,21239,32108,423.0,253.0,2359.0,3568.0
+2,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan'",4569,3018,21239,32108,495.0,351.0,2359.0,3568.0
+3,"ab_name = 'OXACILLIN', number_of_treatments_last_180_days = '0'",4569,3018,21239,32108,495.0,351.0,2359.0,3568.0
+4,"ab_name = 'OXACILLIN', days_since_last_treatment = 'nan', days_with_treatment_last_180_days = '0'",4569,3018,21239,32108,495.0,351.0,2359.0,3568.0
+5,"ab_name = 'LEVOFLOXACIN', exitus = 'f'",3240,2146,21239,32108,386.0,239.0,2359.0,3568.0
+6,"ab_name = 'OXACILLIN', admission_type = 'EMERGENCY', exitus = 'f'",3176,2175,21239,32108,331.0,256.0,2359.0,3568.0
+7,"ab_name = 'LEVOFLOXACIN', days_with_treatment_last_180_days = '0'",3238,2445,21239,32108,373.0,266.0,2359.0,3568.0
+8,"ab_name = 'LEVOFLOXACIN', days_since_last_treatment = 'nan'",3029,2362,21239,32108,351.0,252.0,2359.0,3568.0
+9,"ab_name = 'LEVOFLOXACIN', number_of_treatments_last_180_days = '0'",3029,2362,21239,32108,351.0,252.0,2359.0,3568.0

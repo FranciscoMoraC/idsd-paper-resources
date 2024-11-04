@@ -1,0 +1,2 @@
+['../main.py', 'benchmark', 'SDMapStar', 'AB', 'columns', '8']
+(0.18259943300000003, 174915584)

@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+1,"odor = 'n', veil-type = 'p'",0.19761932294632603,3408,72,4208,3916
+0,odor = 'n',0.19455893037534175,3408,120,4208,3916
+41,"gill-size = 'b', stalk-surface-above-ring = 's', veil-type = 'p'",0.18653946061550644,3376,216,4208,3916
+40,"gill-size = 'b', stalk-surface-above-ring = 's'",0.18653946061550644,3376,216,4208,3916
+13,"gill-attachment = 'f', odor = 'n', veil-color = 'w'",0.18622721523912592,3216,72,4208,3916
+12,"gill-attachment = 'f', odor = 'n'",0.18622721523912592,3216,72,4208,3916
+4,"gill-size = 'b', odor = 'n'",0.18622721523912592,3216,72,4208,3916
+14,"gill-attachment = 'f', odor = 'n', veil-type = 'p'",0.18622721523912592,3216,72,4208,3916
+15,"gill-attachment = 'f', odor = 'n', veil-color = 'w', veil-type = 'p'",0.18622721523912592,3216,72,4208,3916
+2,"odor = 'n', veil-color = 'w'",0.18622721523912592,3216,72,4208,3916

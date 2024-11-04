@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+9,odor = 'n',0.19455893037534175,3408,120,4208,3916
+8,"gill-size = 'b', stalk-surface-above-ring = 's'",0.18653946061550644,3376,216,4208,3916
+7,"gill-size = 'b', odor = 'n'",0.18622721523912592,3216,72,4208,3916
+6,"odor = 'n', veil-color = 'w'",0.183676888096639,3216,112,4208,3916
+5,"gill-size = 'b', stalk-surface-below-ring = 's'",0.17514735290830633,3184,216,4208,3916
+4,"gill-size = 'b', ring-number = 'o', stalk-surface-above-ring = 's'",0.16929517636651595,3008,144,4208,3916
+3,"odor = 'n', ring-number = 'o'",0.16782122303701782,2880,48,4208,3916
+2,"gill-size = 'b', stalk-surface-above-ring = 's', stalk-surface-below-ring = 's'",0.16407379366738256,2920,144,4208,3916
+1,"odor = 'n', stalk-surface-above-ring = 's'",0.16340760555069492,2840,80,4208,3916
+0,"odor = 'n', stalk-surface-below-ring = 's'",0.16055957862389486,2792,80,4208,3916

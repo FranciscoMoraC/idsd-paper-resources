@@ -1,0 +1,101 @@
+,Description,tp train,fp train,TP train,FP train,tp test,fp test,TP test,FP test
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',266,47,266,94,30.0,4.0,30.0,10.0
+1,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M', service_when_culture = 'SURG'",45,1,266,94,5.0,0.0,30.0,10.0
+2,"admission_type = 'EMERGENCY', service_when_culture = 'OMED'",40,1,266,94,2.0,0.0,30.0,10.0
+3,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', service_when_culture = 'OMED'",39,1,266,94,2.0,0.0,30.0,10.0
+4,"icu_when_culture = 'NO ICU', service_when_culture = 'OMED'",37,1,266,94,2.0,0.0,30.0,10.0
+5,"culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', patient_gender = 'M', service_when_culture = 'SURG'",38,2,266,94,4.0,0.0,30.0,10.0
+6,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",35,2,266,94,7.0,0.0,30.0,10.0
+7,"admission_location = 'CLINIC REFERRAL/PREMATURE', admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",34,2,266,94,2.0,1.0,30.0,10.0
+8,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', service_when_culture = 'SURG'",46,4,266,94,5.0,0.0,30.0,10.0
+9,"admission_type = 'EMERGENCY', icu_when_culture = 'NO ICU', service_when_culture = 'SURG'",35,3,266,94,2.0,0.0,30.0,10.0
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',266,45,266,94,30.0,6.0,30.0,10.0
+1,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M', service_when_culture = 'SURG'",45,1,266,94,5.0,0.0,30.0,10.0
+2,"admission_type = 'EMERGENCY', service_when_culture = 'OMED'",39,1,266,94,3.0,0.0,30.0,10.0
+3,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",38,1,266,94,4.0,1.0,30.0,10.0
+4,"icu_when_culture = 'NO ICU', service_when_culture = 'OMED'",36,1,266,94,3.0,0.0,30.0,10.0
+5,"culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', patient_gender = 'M', service_when_culture = 'SURG'",36,2,266,94,6.0,0.0,30.0,10.0
+6,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N'",38,3,266,94,5.0,1.0,30.0,10.0
+7,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', service_when_culture = 'SURG'",45,4,266,94,6.0,0.0,30.0,10.0
+8,"admission_location = 'PHYS REFERRAL/NORMAL DELI', admission_type = 'EMERGENCY'",34,3,266,94,2.0,0.0,30.0,10.0
+9,"admission_type = 'EMERGENCY', icu_when_culture = 'NO ICU', service_when_culture = 'SURG'",34,3,266,94,3.0,0.0,30.0,10.0
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',266,44,266,94,30.0,7.0,30.0,10.0
+1,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M', service_when_culture = 'SURG'",44,0,266,94,6.0,1.0,30.0,10.0
+2,service_when_culture = 'OMED',36,2,266,94,8.0,0.0,30.0,10.0
+3,"icu_when_culture = 'NO ICU', service_when_culture = 'SURG'",36,2,266,94,2.0,2.0,30.0,10.0
+4,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",36,2,266,94,6.0,0.0,30.0,10.0
+5,"culture_specimen_type_description = 'BLOOD CULTURE', discharge_location = 'REHAB/DISTINCT PART HOSP', patient_gender = 'M'",34,2,266,94,1.0,0.0,30.0,10.0
+6,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', service_when_culture = 'SURG'",48,3,266,94,3.0,1.0,30.0,10.0
+7,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N'",37,3,266,94,6.0,1.0,30.0,10.0
+8,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', discharge_location = 'REHAB/DISTINCT PART HOSP'",46,4,266,94,3.0,1.0,30.0,10.0
+9,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', icu_when_culture = 'NO ICU'",63,8,266,94,7.0,3.0,30.0,10.0
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',266,48,266,94,30.0,3.0,30.0,10.0
+1,"admission_type = 'EMERGENCY', service_when_culture = 'OMED'",39,0,266,94,3.0,1.0,30.0,10.0
+2,"icu_when_culture = 'NO ICU', service_when_culture = 'OMED'",37,0,266,94,2.0,1.0,30.0,10.0
+3,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', service_when_culture = 'OMED'",38,0,266,94,3.0,1.0,30.0,10.0
+4,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M', service_when_culture = 'SURG'",44,1,266,94,6.0,0.0,30.0,10.0
+5,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",39,2,266,94,3.0,0.0,30.0,10.0
+6,"culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', patient_gender = 'M', service_when_culture = 'SURG'",38,2,266,94,4.0,0.0,30.0,10.0
+7,"culture_microorganism_name = 'ENTEROCOCCUS FAECIUM', discharge_location = 'REHAB/DISTINCT PART HOSP', patient_gender = 'M'",36,2,266,94,3.0,0.0,30.0,10.0
+8,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', service_when_culture = 'SURG'",45,4,266,94,6.0,0.0,30.0,10.0
+9,"admission_type = 'EMERGENCY', icu_when_culture = 'NO ICU', service_when_culture = 'SURG'",33,3,266,94,4.0,0.0,30.0,10.0
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',266,47,266,94,30.0,4.0,30.0,10.0
+1,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M', service_when_culture = 'SURG'",45,1,266,94,5.0,0.0,30.0,10.0
+2,service_when_culture = 'OMED',40,1,266,94,4.0,1.0,30.0,10.0
+3,"culture_specimen_type_description = 'BLOOD CULTURE', service_when_culture = 'OMED'",40,1,266,94,3.0,1.0,30.0,10.0
+4,"culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', patient_gender = 'M', service_when_culture = 'SURG'",38,2,266,94,4.0,0.0,30.0,10.0
+5,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",36,2,266,94,6.0,0.0,30.0,10.0
+6,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', service_when_culture = 'SURG'",46,4,266,94,5.0,0.0,30.0,10.0
+7,"admission_type = 'EMERGENCY', icu_when_culture = 'NO ICU', service_when_culture = 'SURG'",34,3,266,94,3.0,0.0,30.0,10.0
+8,"admission_location = 'PHYS REFERRAL/NORMAL DELI', admission_type = 'EMERGENCY'",33,3,266,94,3.0,0.0,30.0,10.0
+9,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N'",39,4,266,94,4.0,0.0,30.0,10.0
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',266,49,266,94,30.0,2.0,30.0,10.0
+1,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M', service_when_culture = 'SURG'",46,1,266,94,4.0,0.0,30.0,10.0
+2,"admission_type = 'EMERGENCY', service_when_culture = 'OMED'",37,1,266,94,5.0,0.0,30.0,10.0
+3,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', service_when_culture = 'OMED'",36,1,266,94,5.0,0.0,30.0,10.0
+4,"culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', patient_gender = 'M', service_when_culture = 'SURG'",38,2,266,94,4.0,0.0,30.0,10.0
+5,"culture_microorganism_name = 'ENTEROCOCCUS FAECIUM', discharge_location = 'REHAB/DISTINCT PART HOSP', patient_gender = 'M'",36,2,266,94,3.0,0.0,30.0,10.0
+6,"culture_microorganism_name = 'ENTEROCOCCUS FAECIUM', discharge_location = 'REHAB/DISTINCT PART HOSP', exitus = 'N', patient_gender = 'M'",36,2,266,94,3.0,0.0,30.0,10.0
+7,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",36,2,266,94,6.0,0.0,30.0,10.0
+8,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', service_when_culture = 'SURG'",46,4,266,94,5.0,0.0,30.0,10.0
+9,"admission_type = 'EMERGENCY', icu_when_culture = 'NO ICU', service_when_culture = 'SURG'",34,3,266,94,3.0,0.0,30.0,10.0
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',267,47,267,93,29.0,4.0,29.0,11.0
+1,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M', service_when_culture = 'SURG'",46,1,267,93,4.0,0.0,29.0,11.0
+2,"admission_type = 'EMERGENCY', service_when_culture = 'OMED'",36,1,267,93,6.0,0.0,29.0,11.0
+3,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', service_when_culture = 'OMED'",35,1,267,93,6.0,0.0,29.0,11.0
+4,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",38,2,267,93,4.0,0.0,29.0,11.0
+5,"culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', patient_gender = 'M', service_when_culture = 'SURG'",37,2,267,93,5.0,0.0,29.0,11.0
+6,"admission_location = 'PHYS REFERRAL/NORMAL DELI', admission_type = 'EMERGENCY'",34,2,267,93,2.0,1.0,29.0,11.0
+7,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', service_when_culture = 'SURG'",46,4,267,93,5.0,0.0,29.0,11.0
+8,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', discharge_location = 'REHAB/DISTINCT PART HOSP'",45,4,267,93,4.0,1.0,29.0,11.0
+9,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N'",40,4,267,93,3.0,0.0,29.0,11.0
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',267,43,267,93,29.0,8.0,29.0,11.0
+1,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M', service_when_culture = 'SURG'",46,1,267,93,4.0,0.0,29.0,11.0
+2,"admission_type = 'EMERGENCY', service_when_culture = 'OMED'",36,1,267,93,6.0,0.0,29.0,11.0
+3,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",41,2,267,93,1.0,0.0,29.0,11.0
+4,"culture_microorganism_name = 'ENTEROCOCCUS FAECIUM', discharge_location = 'REHAB/DISTINCT PART HOSP', patient_gender = 'M'",36,2,267,93,3.0,0.0,29.0,11.0
+5,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', service_when_culture = 'SURG'",48,4,267,93,3.0,0.0,29.0,11.0
+6,"admission_type = 'EMERGENCY', icu_when_culture = 'NO ICU', service_when_culture = 'SURG'",35,3,267,93,2.0,0.0,29.0,11.0
+7,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N'",40,4,267,93,3.0,0.0,29.0,11.0
+8,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', discharge_location = 'REHAB/DISTINCT PART HOSP', exitus = 'N'",47,5,267,93,2.0,0.0,29.0,11.0
+9,"admission_type = 'EMERGENCY', culture_microorganism_name = 'ENTEROCOCCUS FAECIUM', icu_when_culture = 'NO ICU', patient_gender = 'M'",67,10,267,93,3.0,0.0,29.0,11.0
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',267,44,267,93,29.0,7.0,29.0,11.0
+1,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M', service_when_culture = 'SURG'",42,1,267,93,8.0,0.0,29.0,11.0
+2,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",41,1,267,93,1.0,1.0,29.0,11.0
+3,"admission_type = 'EMERGENCY', service_when_culture = 'OMED'",39,1,267,93,3.0,0.0,29.0,11.0
+4,"icu_when_culture = 'NO ICU', service_when_culture = 'OMED'",36,1,267,93,3.0,0.0,29.0,11.0
+5,"culture_microorganism_name = 'ENTEROCOCCUS FAECIUM', discharge_location = 'REHAB/DISTINCT PART HOSP', patient_gender = 'M'",36,1,267,93,3.0,1.0,29.0,11.0
+6,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', service_when_culture = 'SURG'",43,2,267,93,8.0,2.0,29.0,11.0
+7,"culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', patient_gender = 'M', service_when_culture = 'SURG'",36,2,267,93,6.0,0.0,29.0,11.0
+8,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N'",38,3,267,93,5.0,1.0,29.0,11.0
+9,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', discharge_location = 'REHAB/DISTINCT PART HOSP'",42,4,267,93,7.0,1.0,29.0,11.0
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',267,45,267,93,29.0,6.0,29.0,11.0
+1,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M', service_when_culture = 'SURG'",47,1,267,93,3.0,0.0,29.0,11.0
+2,"admission_type = 'EMERGENCY', service_when_culture = 'OMED'",40,1,267,93,2.0,0.0,29.0,11.0
+3,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', service_when_culture = 'OMED'",39,1,267,93,2.0,0.0,29.0,11.0
+4,"icu_when_culture = 'NO ICU', service_when_culture = 'OMED'",37,1,267,93,2.0,0.0,29.0,11.0
+5,"culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', patient_gender = 'M', service_when_culture = 'SURG'",38,2,267,93,4.0,0.0,29.0,11.0
+6,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', patient_gender = 'M'",38,2,267,93,4.0,0.0,29.0,11.0
+7,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N', service_when_culture = 'SURG'",46,3,267,93,5.0,1.0,29.0,11.0
+8,"admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', discharge_location = 'REHAB/DISTINCT PART HOSP'",44,3,267,93,5.0,2.0,29.0,11.0
+9,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', admission_type = 'EMERGENCY', culture_specimen_type_description = 'BLOOD CULTURE', exitus = 'N'",40,3,267,93,3.0,1.0,29.0,11.0

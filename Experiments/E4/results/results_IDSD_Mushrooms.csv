@@ -1,0 +1,11 @@
+,Description,tp,fp,TP,FP
+0,odor = 'n',3408,120,4208,3916
+1,"gill-size = 'b', odor = 'n', stalk-surface-above-ring = 's'",2672,72,4208,3916
+2,"gill-size = 'b', odor = 'n', stalk-surface-below-ring = 's'",2672,72,4208,3916
+3,"bruises = 't', cap-surface = 'y', gill-size = 'b', stalk-surface-above-ring = 's'",1424,36,4208,3916
+4,"bruises = 't', gill-size = 'b', odor = 'n', stalk-surface-above-ring = 's', stalk-surface-below-ring = 's'",1952,72,4208,3916
+5,"gill-size = 'b', gill-spacing = 'c', ring-number = 'o', ring-type = 'p', stalk-surface-above-ring = 's'",2624,144,4208,3916
+6,"bruises = 't', stalk-shape = 't', stalk-surface-above-ring = 's', stalk-surface-below-ring = 's'",1824,72,4208,3916
+7,"stalk-root = 'b', stalk-shape = 't', stalk-surface-above-ring = 's', stalk-surface-below-ring = 's'",1824,72,4208,3916
+8,"ring-type = 'p', stalk-shape = 't', stalk-surface-above-ring = 's', stalk-surface-below-ring = 's'",1824,72,4208,3916
+9,"bruises = 't', gill-attachment = 'f', gill-size = 'b', stalk-surface-above-ring = 's', stalk-surface-below-ring = 's'",2464,144,4208,3916
