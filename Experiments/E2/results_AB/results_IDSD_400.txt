@@ -1,0 +1,2 @@
+['../main.py', 'benchmark', 'IDSD', 'AB', 'instances', '400']
+(0.832723369, 172163072)

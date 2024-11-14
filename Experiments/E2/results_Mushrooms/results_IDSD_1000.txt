@@ -1,0 +1,2 @@
+['../main.py', 'benchmark', 'IDSD', 'Mushrooms', 'instances', '1000']
+(100.45340332299999, 171417600)

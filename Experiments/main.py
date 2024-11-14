@@ -65,10 +65,12 @@ def get_data(database:str,instances:int = None, split:bool = False):
         return get_mushrooms_data(split, instances)
     elif database == "AB":
         return get_ab(split, instances)
+    elif database == "Car":
+        return get_car_data(split)
     else:
         raise ValueError("Database not recognized")
     
-def get_folds(dataframe: DataFrame, target:tuple ,k:int = 30):
+def get_folds(dataframe: DataFrame, target:tuple ,k:int = 10):
     skf = StratifiedKFold(n_splits=k, random_state=42, shuffle=True)
     folds = []
     for train_index, test_index in skf.split(dataframe, dataframe[target[0]]):
@@ -93,8 +95,10 @@ def get_mimic_data(split:bool):
 
 def get_mushrooms_data(split:bool, instances:int = None):
     if split:
-        df_train = read_csv('../data/agaricus-lepiota-train.csv', header = None)
-        df_test = read_csv('../data/agaricus-lepiota-test.csv', header = None)
+        # df_train = read_csv('../data/agaricus-lepiota-train.csv', header = None)
+        # df_test = read_csv('../data/agaricus-lepiota-test.csv', header = None)
+        df_train = read_csv('../data/agaricus-lepiota-train.csv')
+        df_test = read_csv('../data/agaricus-lepiota-test.csv')
         df_train = df_train.astype("str")
         df_train.columns = [ "poisonous",
         "cap-shape", "cap-surface", "cap-color", "bruises", "odor",
@@ -122,7 +126,23 @@ def get_mushrooms_data(split:bool, instances:int = None):
     df = df.astype("str")
     return df
 
+def get_car_data(split:bool):
+    if split:
+        df_train = read_csv('../data/car-train.csv', header = None)
+        df_test = read_csv('../data/car-test.csv', header = None)
+        df_train = df_train.astype("str")
+        df_train.columns = ["buying", "maint", "doors", "persons", "lug_boot", "safety", "acceptability"]
+        df_test = df_test.astype("str")
+        df_test.columns = df_train.columns
+        return df_train, df_test
+    df = read_csv('../data/car.data', header = None)
+    df.columns = ["buying", "maint", "doors", "persons", "lug_boot", "safety", "acceptability"]
+    df = df.astype("str")
+    return df
+
 def get_ab(split: bool = False, instances:int = 400):
+    if instances is None:
+        instances = 400
     df = read_csv(f'../data/mimic-iii-preprocessed-db-sample-{instances}.csv')
     df = df.astype("str")
     df.columns = df.columns.astype(str)
@@ -143,6 +163,8 @@ def get_target(database:str):
         return ("poisonous", "e")
     elif database == "AB":
         return ("culture_susceptibility", "R")
+    elif database == "Car":
+        return ("acceptability", "unacc")
     else:
         raise ValueError("Database not recognized")
     
@@ -157,7 +179,7 @@ def output_csv(model, id, df = None, target = None, num_subgroup = None):
         output_df = DataFrame(columns=["Description","tp","fp", "TP","FP"])
         target_entry = df[target[0]] == target[1]
     try:
-        print(input_file)
+        # print(input_file)
         f = open(input_file, "r")
     except Exception:
         print(f"WARNING: No results found for {model} with id {id}")
@@ -264,6 +286,7 @@ def run_cross_validation(model, database, num_subgroups:int = 10):
 
 if len(sys.argv) < 2:
     raise ValueError("Need to pass mode")
+print(sys.argv)
 mode = sys.argv[1]
 if mode == "benchmark":
     if len(sys.argv) < 5:
